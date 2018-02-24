@@ -1,0 +1,24 @@
+{
+  "name": "crawler_sramin",
+  "version": "1.0.0",
+  "description": "crawler Node ver",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PARKJEONGSU/crawler_sramin.git"
+  },
+  "author": "PARKJEONGSU",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PARKJEONGSU/crawler_sramin/issues"
+  },
+  "homepage": "https://github.com/PARKJEONGSU/crawler_sramin#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "exceljs": "^0.8.3",
+    "sync-request": "^5.0.0"
+  }
+}
